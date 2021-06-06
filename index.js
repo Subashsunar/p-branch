@@ -4,3 +4,5 @@ const me = {
 
 
 const someVar = 'SomeVariable';
+
+console.log(someVar);
